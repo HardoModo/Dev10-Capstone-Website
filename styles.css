@@ -4,7 +4,8 @@
 
 .flex-container {
     display: flex;
-    flex-direction:row
+    flex-direction: row;
+    margin-bottom: 30px;
 }
 
 .headshot {
@@ -20,4 +21,5 @@
 .headshot_links {
     display: flex;
     flex-flow: column;
+    padding: 20px;
 }
